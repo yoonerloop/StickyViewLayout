@@ -7,4 +7,5 @@ RecycleView自定义吸顶效果</br>
 
 ## 二、效果图</br>
 
- ![描述图片](https://github.com/yoonerloop/StickyViewLayout/tree/master/gif/StickyViewLayout.gif)
+ ![添加图片描述](https://github.com/yoonerloop/StickyViewLayout/tree/master/gif/StickyViewLayout.gif)
+
